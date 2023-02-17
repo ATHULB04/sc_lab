@@ -1,2 +1,3 @@
-deriv= sym.Derivative(v, t)
-# y=deriv.doit()
+print(u)
+# print(s)
+# print(v)
